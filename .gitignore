@@ -1,0 +1,34 @@
+# Flutter/Dart
+.build/
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+build/
+
+# Generated
+**/generated_plugin_registrant.*
+**/GeneratedPluginRegistrant.*
+
+# Logs
+*.log
+
+# IDE
+.metadata
+.vscode/
+.idea/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Android
+android/.gradle/
+android/local.properties
+
+# iOS
+ios/Pods/
+
+# Lock file (optional)
+pubspec.lock
