@@ -262,7 +262,7 @@ Widget _buildTaskTile(Task task, int index) {
 ```
 screenshots/p1_langkah9.gif
 ```
-![Hasil Langkah 9](screenshots/p1_langkah9s.gif)
+![Hasil Langkah 9](screenshots/p1_langkah9.gif)
 
 ---
 
